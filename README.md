@@ -1,6 +1,6 @@
 # Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks
 
-<img src="images/ffa-toy.jpg" width="50%">
+<img src="images/ffa-toy.jpg" width="62%">
 
 **We find LLMs struggle to generate intentionally deceitful output but leak honest counterparts they mistakenly believe are false.
 So, we propose a jailbreak attack method called Fallacy Failure Attack (FFA), exploiting this deficiency.**
