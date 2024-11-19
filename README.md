@@ -2,6 +2,19 @@
 
 <img src="images/ffa-toy.jpg" width="50%">
 
+**We find LLMs struggle to generate intentionally deceitful output but leak honest counterparts they mistakenly believe are false.
+So, we propose a jailbreak attack method called Fallacy Failure Attack (FFA), exploiting this deficiency.**
+
+FFA queries an LLM to generate a *fallacious yet deceptively real procedure* for harmful behaviors. 
+
+Why does this work? Because:
+
+1. Since a fallacious procedure is generally considered fake and thus harmless by LLMs, it helps bypass the safeguard mechanism;
+
+2. Yet the output is factually harmful since the LLM cannot fabricate fallacious solutions but proposes truthful ones.
+
+
+
 The repository contains the code of the paper:
 > **Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks (EMNLP 2024)** 
 > [[Paper]](https://aclanthology.org/2024.emnlp-main.738/) <br>
