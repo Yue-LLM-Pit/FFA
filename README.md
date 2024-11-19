@@ -1,7 +1,8 @@
 # Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks
 
-![Task](images/motivation.jpg)
-![Task](images/toy.jpg)
+![Task](images/ffa-motivation.jpg)
+![Task](images/ffa-toy.jpg)
+![Task](images/ffa-toy.jpg)
 
 The repository contains the code of the paper:
 > **Large Language Models Are Involuntary Truth-Tellers: Exploiting Fallacy Failure for Jailbreak Attacks (EMNLP 2024)** 
