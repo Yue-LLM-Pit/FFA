@@ -7,7 +7,7 @@ So, we propose a jailbreak attack method called Fallacy Failure Attack (FFA), ex
 
 FFA queries an LLM to generate a *fallacious yet deceptively real procedure* for harmful behaviors. 
 
-Why does this work? Because:
+It is based on two observations:
 
 1. Since a fallacious procedure is generally considered fake and thus harmless by LLMs, it helps bypass the safeguard mechanism;
 
