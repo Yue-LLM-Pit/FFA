@@ -20,13 +20,11 @@ The repository contains the code of the paper:
 > [[Paper]](https://aclanthology.org/2024.emnlp-main.738/) <br>
 > Yue Zhou, Henry Peng Zou, Barbara Di Eugenio, Yang Zhang <br>
 
-> [!NOTE]
-> The repository is currently being edited.
 
 ## Requirement
 ## Run
 ```shell
-Edits in progress
+Edits in progress. For examples, check playground notebook.
 ```
 
 ## Cite
